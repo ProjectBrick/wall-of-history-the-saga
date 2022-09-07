@@ -26,18 +26,9 @@ import {
 	versionShort,
 	distName
 } from './util/meta.mjs';
-import {
-	pngs2bmps,
-	readIco,
-	readIcns
-} from './util/image.mjs';
+import {pngs2bmps, readIco, readIcns} from './util/image.mjs';
 import {docs} from './util/doc.mjs';
-import {
-	makeZip,
-	makeTgz,
-	makeExe,
-	makeDmg
-} from './util/dist.mjs';
+import {makeZip, makeTgz, makeExe, makeDmg} from './util/dist.mjs';
 
 async function * files() {
 	for (const f of [
