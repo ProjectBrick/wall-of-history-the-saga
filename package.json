@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"appName": "Wall of History: The Saga",
-	"appNameShort": "Wall of History Saga",
+	"appDmgTitle": "Wall of History Saga",
 	"appDomain": "io.github.projectbrick.WallOfHistoryTheSaga",
 	"version": "1.0.0",
 	"author": "Project Brick",
