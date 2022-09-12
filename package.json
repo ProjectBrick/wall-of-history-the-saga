@@ -3,7 +3,7 @@
 	"appName": "Wall of History: The Saga",
 	"appDmgTitle": "Wall of History Saga",
 	"appDomain": "io.github.projectbrick.WallOfHistoryTheSaga",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"author": "Project Brick",
 	"copyright": "Copyright 2003 The LEGO Group and Templar Studios LLC. Unofficial release by Project Brick.",
 	"optionalDependencies": {
