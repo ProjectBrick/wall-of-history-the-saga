@@ -1,4 +1,4 @@
-# Wall of History: The Saga -- README
+# Wall of History: The Saga – README
 
 The island of Mata Nui was once a paradise. Then the shadow of the evil Makuta fell upon it and all was darkness. Six heroes called Toa have come to defeat Makuta and save the Matoran. They will face great challenges – Rahi, Bohrok, Bohrok-Kal, Rahkshi – and discover a powerful new ally before the final confrontation with Makuta!
 
